@@ -1,4 +1,8 @@
-# dashboard
+# Dashboard
+
+## Prerequisites
+
+Install [Yarn](https://classic.yarnpkg.com/en/docs/install).
 
 ## Project setup
 ```
