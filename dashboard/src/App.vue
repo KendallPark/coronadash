@@ -116,6 +116,9 @@ export default {
   created() {
     this.$vuetify.theme.dark = true;
   },
+  beforeCreate() {
+    this.$store.dispatch('fetchNYTCountyData');
+  },
 };
 </script>
 
